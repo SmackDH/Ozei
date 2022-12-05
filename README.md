@@ -2,8 +2,11 @@
 
 A modern restaurant reservation system for last-minute requests on mobile.
 
-![image](https://user-images.githubusercontent.com/66011769/205541912-3bdb7e66-f6e7-4dcd-b1f8-94477bc0e41b.png)
-![image](https://user-images.githubusercontent.com/66011769/205541886-e80a108a-7797-402b-bb19-ba70332ae911.png)
+Desktop Owner             |  Mobile User
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/66011769/205541912-3bdb7e66-f6e7-4dcd-b1f8-94477bc0e41b.png" width=100% height=100%>  |  <img src="https://user-images.githubusercontent.com/66011769/205541886-e80a108a-7797-402b-bb19-ba70332ae911.png" width=50% height=50%>
+
+
 
 <br>
 App home: https://www.ozei.fun
